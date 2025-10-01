@@ -1,2 +1,2 @@
 # templates
-This repository is created to maintain different types of computer science templates.
+This repository is created to maintain computer science concepts through different type templates.
